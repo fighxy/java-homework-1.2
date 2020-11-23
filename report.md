@@ -8,7 +8,9 @@
 
 В результате тестирования выявлены следующие дефекты:
 
+[Баг-репорт №1](https://github.com/kawasary/java-homework-1.2/issues/1)
 
+[Баг-репорт №2](https://github.com/kawasary/java-homework-1.2/issues/2)
 
 
 
