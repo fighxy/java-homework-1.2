@@ -19,7 +19,7 @@
 
 Приложение Credit Card Number Validator
 
-[Описание задания по его тестированию](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
+[Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md)
 
 В качестве тестовых данных использовались:
 
