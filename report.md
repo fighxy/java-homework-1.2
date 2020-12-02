@@ -8,19 +8,18 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-[Баг-репорт №1](https://github.com/kawasary/java-homework-1.2/issues/1)
+[Неверная валидация 14-значных номеров карт](https://github.com/kawasary/java-homework-1.2/issues/1)
 
-[Баг-репорт №2](https://github.com/kawasary/java-homework-1.2/issues/2)
-
-
+[Неверная валидация 19-значных номеров карт](https://github.com/kawasary/java-homework-1.2/issues/2)
 
 
 
 
 ## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
-* Bug report
+Приложение Credit Card Number Validator
+
+[Описание задания по его тестированию](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
 
 В качестве тестовых данных использовались:
 
